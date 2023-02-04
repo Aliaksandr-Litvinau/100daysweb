@@ -1,2 +1,7 @@
 init-environment-variable:
 	export FLASK_APP=demo.py
+
+# GREP-is-a-Unix-shell-command-that-is-used-to-find-text-in-files.-It-can-work-with-regular-expressions-to-specify-which
+# words-phrases-or-characters-are-to-be-found
+view environment variable:
+	env | grep FLASK_APP
