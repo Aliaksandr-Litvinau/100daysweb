@@ -1,0 +1,2 @@
+init-environment-variable:
+	export FLASK_APP=demo.py
